@@ -1,0 +1,20 @@
+{
+  "list": [
+    {
+      "productName": "水杯",
+      "price": 10
+    },
+    {
+      "productName": "电脑",
+      "price": 10
+    },
+    {
+      "productName": "键盘",
+      "price": 10
+    },
+    {
+      "productName": "笔",
+      "price": 10
+    }
+  ]
+}
